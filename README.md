@@ -1,6 +1,6 @@
 # proyecto-js
 # el primer ejercicio es de una calculadora intregando js y css 
-<img src="img/calculadora.png">
+<img src="img/capcalculadora.png">
 
 # el segundo proyecto es un menu donde le damos utilidad al css; como stylecss.map y style.scss
 <img src="img/capmenu.png">
@@ -12,4 +12,4 @@
 <img src="img/capproyecto4.png">
 
 # el 5 proyecto "menu desplegable" es una especie de menu desplebagle con sus respectivo css 
-<img src="img/capproyecto5.png">
+<img src="img/proyecto5.png">
